@@ -1,0 +1,53 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Handjet:wght@300&family=Lugrasimo&family=Lumanosimo&family=Raleway&family=Tektur&family=Zilla+Slab:wght@300&display=swap');
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+}
+.logo{
+    margin-left: 100px;
+}
+.navmenu ul li{
+    
+    list-style: none;
+    margin: 0 20px;
+}
+.navmenu ul{
+    display: flex;
+    margin-left: 500px;
+
+}
+.download_part{
+    margin-right: 100px;
+   
+}
+.banner{
+   
+    background: url(image/rowan-freeman-clYlmCaQbzY-unsplash.jpg); width: 100%; background-size: cover; height: 600px; linear-gradient (rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    display: flex;
+}
+.banner h1{
+    font-size: 70px;
+    color: white;
+    
+}
+.heading p{
+    font-size: 20px;
+    color: white;
+}
+.heading{
+    padding: 200px;
+    width: 60%;
+}
+.heading button{
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: yellow;
+}
+.image{
+    padding-top: 200px;
+    z-index: 100%;
+    
+}
